@@ -1,0 +1,11 @@
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\bin\Debug\CookBook.exe.config
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\bin\Debug\CookBook.mdf
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\bin\Debug\CookBook_log.ldf
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\bin\Debug\CookBook.exe
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\bin\Debug\CookBook.pdb
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\obj\Debug\CookBook.csprojResolveAssemblyReference.cache
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\obj\Debug\CookBook.frmMain.resources
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\obj\Debug\CookBook.Properties.Resources.resources
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\obj\Debug\CookBook.csproj.GenerateResource.Cache
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\obj\Debug\CookBook.exe
+C:\Users\ovidi\OneDrive\Documents\Scoala\ProiectC#\CookBook\CookBook\obj\Debug\CookBook.pdb
